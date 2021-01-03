@@ -1,0 +1,19 @@
+* {
+   margin: 0;
+   padding: 0;
+
+}
+
+.form {
+    background-color: #FDFEFE;
+    width: 300 px;
+    margin: 0px 0px 0px 100px;
+    color: black;
+    font size:  18px ;
+    border-radius: 10px;
+    margin-left: 290px;
+    margin-right: 300px;
+     
+    padding-left: 100px;
+
+}
